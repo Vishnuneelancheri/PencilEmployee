@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="non_completion">#ff9b9e</color>
+    <color name="draw_complete">#ffc859</color>
+    <color name="completed">#86ffa5</color>
+</resources>
